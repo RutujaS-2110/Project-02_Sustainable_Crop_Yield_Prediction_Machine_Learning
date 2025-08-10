@@ -6,8 +6,8 @@
 
 To build a predictive model for crop yield estimation using Soil Quality (pH), Weather Conditions, and Past Agricultural Data (past_crop_yield) to help in agricultural decision-making.
 
-
 ## Model Performance Summary
+<div align="center">
 
 | Model           | R² Score | RMSE  | MAE   |
 |-----------------|----------|-------|-------|
@@ -16,6 +16,8 @@ To build a predictive model for crop yield estimation using Soil Quality (pH), W
 | **Decision Tree** | **99.62%** | **13.65** | **1.15** |
 | Gradient Boosting | 87.32% | 78.92 | 64.69 |
 | XGBoost           | 99.33% | 18.10 | 10.91 |
+
+</div>
 
 **Best Model:** Decision Tree — highest accuracy and lowest error, making it ideal for crop yield prediction.
 
