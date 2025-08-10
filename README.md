@@ -18,6 +18,8 @@ To build a predictive model for crop yield estimation using Soil Quality (pH), W
 | XGBoost           | 99.33% | 18.10 | 10.91 |
 
 **Best Model:** Decision Tree — highest accuracy and lowest error, making it ideal for crop yield prediction.
+
+
 <b>RESULT-</b>
 
 <img width="800" height="450" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/9cd5da1e-e235-4c38-980e-04e4d29d35ef" />
