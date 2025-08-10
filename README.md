@@ -6,7 +6,7 @@
 
 To build a predictive model for crop yield estimation using Soil Quality (pH), Weather Conditions, and Past Agricultural Data (past_crop_yield) to help in agricultural decision-making.
 
-## Model Performance Summary
+**Model Performance Summary**
 <div align="center">
 
 | Model           | R² Score | RMSE  | MAE   |
