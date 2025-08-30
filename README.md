@@ -12,10 +12,10 @@ To build a predictive model for crop yield estimation using Soil Quality (pH), W
 | Model           | R² Score | RMSE  | MAE   |
 |-----------------|----------|-------|-------|
 | Linear Regression | 82.44% | 92.88 | 74.87 |
-| Random Forest     | 99.30% | 18.54 | 8.05  |
-| **Decision Tree** | **99.62%** | **13.65** | **1.15** |
-| Gradient Boosting | 87.32% | 78.92 | 64.69 |
-| XGBoost           | 99.33% | 18.10 | 10.91 |
+| Random Forest Regressor | 99.30% | 18.54 | 8.05  |
+| **Decision Tree Regressor** | **99.62%** | **13.65** | **1.15** |
+| Gradient Boosting Regressor | 87.32% | 78.92 | 64.69 |
+| XGBoost Regressor          | 99.33% | 18.10 | 10.91 |
 
 </div>
 
